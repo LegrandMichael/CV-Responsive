@@ -1,0 +1,52 @@
+body {
+	
+	background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-163904.jpg");
+	color: white;
+}
+
+.header {
+	font-family: 'Josefin Sans', Arial, sans-serif;
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-between;
+	
+
+	
+	
+
+}
+
+h1 {
+	font-style: normal;	
+	border-style: groove;
+	padding-top: 6px;
+	text-align: center;
+	padding-bottom: 5px;
+
+
+	
+	
+}
+
+.header ul {
+	list-style-type: none;
+	font-style: italic;
+	
+}
+
+
+.competences {
+
+}
+
+.xp {
+
+	
+
+}
+
+.formations {
+
+}
+
+
